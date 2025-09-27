@@ -1,1 +1,1 @@
-getscriptkey.iceiy.com
+return "getscriptkey.iceiy.com"
