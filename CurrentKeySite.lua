@@ -1,1 +1,1 @@
-return "getscriptkey.iceiy.com"
+return "raxkey.wuaze.com"
